@@ -1,3 +1,5 @@
+package Project;
+
 import java.util.*;
 
 public class LongIncrSub {
@@ -31,7 +33,7 @@ public class LongIncrSub {
         int n = scn.nextInt();
         int[] ary = new int[n];
         for(int i =0; i<ary.length; i++){
-        ary[i] = scn.nextInt();
+           ary[i] = scn.nextInt();
         }
         // int[] ary = { 7, 7, 7, 7 };
         // int n = ary.length;
